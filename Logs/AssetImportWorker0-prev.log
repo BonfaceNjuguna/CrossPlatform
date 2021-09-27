@@ -1,0 +1,405 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 16235 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/unityprojects/CrossPDev/CrossP
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65134
+Successfully changed project path to: D:/unityprojects/CrossPDev/CrossP
+D:/unityprojects/CrossPDev/CrossP
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/unityprojects/CrossPDev/CrossP/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6109
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001959 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.988 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000472 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.800 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.724400 ms (FindLiveObjects: 0.102200 ms CreateObjectMapping: 0.028500 ms MarkObjects: 1.528200 ms  DeleteObjects: 0.064600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Images
+  artifactKey: Guid(92637de13d6f56745b0ae43700145abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images using Guid(92637de13d6f56745b0ae43700145abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f0440e08df6efc236dc6a856b110c9') in 0.007572 seconds
+  Import took 0.009259 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000968 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1176 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.9 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1618.
+Total: 3.698900 ms (FindLiveObjects: 0.198200 ms CreateObjectMapping: 0.065700 ms MarkObjects: 1.480700 ms  DeleteObjects: 1.952700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1488.537139 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(7ae60feb922b10a4f9a876729eb74d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(7ae60feb922b10a4f9a876729eb74d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398a2f4ebfbb21a74579010abaa2b6a4') in 0.008812 seconds
+  Import took 0.010850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000881 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(7ae60feb922b10a4f9a876729eb74d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(7ae60feb922b10a4f9a876729eb74d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398a2f4ebfbb21a74579010abaa2b6a4') in 0.001537 seconds
+  Import took 0.003705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.208142 seconds.
+  path: Assets/RoadArchitect
+  artifactKey: Guid(c0a48bf321e85d942aa2375df0e4b2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect using Guid(c0a48bf321e85d942aa2375df0e4b2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0989029a4acf5dfb2eaf974a7e30f0cf') in 0.005792 seconds
+  Import took 0.007556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000584 seconds.
+  path: Assets/RoadArchitect
+  artifactKey: Guid(c0a48bf321e85d942aa2375df0e4b2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect using Guid(c0a48bf321e85d942aa2375df0e4b2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0989029a4acf5dfb2eaf974a7e30f0cf') in 0.003395 seconds
+  Import took 0.005063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.195451 seconds.
+  path: Assets/RoadArchitect/RoadArchitect-master
+  artifactKey: Guid(1317a227cddf6504fa9b753c01e22566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect-master using Guid(1317a227cddf6504fa9b753c01e22566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea24fb1297b2594b7ceadfa2409604d') in 0.007565 seconds
+  Import took 0.009314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054401 seconds.
+  path: Assets/RoadArchitect/RoadArchitect-master/RoadArchitect.asmdef
+  artifactKey: Guid(e9c7aa1199abeb64c82a4831b3c7286f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect-master/RoadArchitect.asmdef using Guid(e9c7aa1199abeb64c82a4831b3c7286f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb077ee173aba0daf74dcf32268032c') in 0.022493 seconds
+  Import took 0.024359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.332962 seconds.
+  path: Assets/RoadArchitect/RoadArchitect
+  artifactKey: Guid(1317a227cddf6504fa9b753c01e22566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect using Guid(1317a227cddf6504fa9b753c01e22566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52a5c0913a0d71a4d61ab6f454320573') in 0.002015 seconds
+  Import took 0.004737 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000784 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.764 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1175 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.8 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1621.
+Total: 3.736200 ms (FindLiveObjects: 0.153100 ms CreateObjectMapping: 0.039200 ms MarkObjects: 1.451400 ms  DeleteObjects: 2.091600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 473.393309 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/330/2HrParkingDiffuse.png
+  artifactKey: Guid(d94b7a251ab13134a85fc9a11c10fcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/330/2HrParkingDiffuse.png using Guid(d94b7a251ab13134a85fc9a11c10fcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f7ef9fca23c97e98d012eb1d4c223d') in 0.115094 seconds
+  Import took 0.117476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/182Diffuse.png
+  artifactKey: Guid(350b7bf75d9a7264fb9d7b69b0c9c772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/182Diffuse.png using Guid(350b7bf75d9a7264fb9d7b69b0c9c772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb2a1681a4f4c1b0c478710c5e0ce82') in 0.012515 seconds
+  Import took 0.014350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/156Diffuse.png
+  artifactKey: Guid(14c18af93a71f7d49b22f23cf2215478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/156Diffuse.png using Guid(14c18af93a71f7d49b22f23cf2215478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbc528e5c87b02e1e8cccb7b0306f045') in 0.016663 seconds
+  Import took 0.018850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/Square/Advise35Diffuse.png
+  artifactKey: Guid(ab470c7ed0e53af48a27d2f5ee6da218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/Square/Advise35Diffuse.png using Guid(ab470c7ed0e53af48a27d2f5ee6da218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279bba70d2a812cd8024f747caa83b88') in 0.012321 seconds
+  Import took 0.014118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/122NJDiffuse.png
+  artifactKey: Guid(2f40667cbe1f63e40afd2b2141fd09f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/122NJDiffuse.png using Guid(2f40667cbe1f63e40afd2b2141fd09f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f290185500aa854ebb03dfe343ba5804') in 0.017031 seconds
+  Import took 0.018833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/330/2HrParkingDiffuse.png
+  artifactKey: Guid(d94b7a251ab13134a85fc9a11c10fcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/330/2HrParkingDiffuse.png using Guid(d94b7a251ab13134a85fc9a11c10fcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f7ef9fca23c97e98d012eb1d4c223d') in 0.008570 seconds
+  Import took 0.011176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/396/35mphZoneAheadDiffuse.png
+  artifactKey: Guid(7ddef1bbecb1c624797848d37f848de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/396/35mphZoneAheadDiffuse.png using Guid(7ddef1bbecb1c624797848d37f848de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297921a66f31e8fd4b1b98062cc25426') in 0.015706 seconds
+  Import took 0.017543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/396/950ADiffuse.png
+  artifactKey: Guid(62c9a5bbcfd74064d981cfa4a162a244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/396/950ADiffuse.png using Guid(62c9a5bbcfd74064d981cfa4a162a244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '420fffead1525e979d53e6d27e2b23c4') in 0.014983 seconds
+  Import took 0.016746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/Square/Advise60kmhDiffuse.png
+  artifactKey: Guid(83b6bcdfa0ac285449d849c33213526e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/Square/Advise60kmhDiffuse.png using Guid(83b6bcdfa0ac285449d849c33213526e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d01b5d8544906027da7994ef5ac9a5e') in 0.017676 seconds
+  Import took 0.019714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.743956 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/AL120Diffuse.png
+  artifactKey: Guid(01049d047c97b7c4b8f2fb64b7c00338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/AL120Diffuse.png using Guid(01049d047c97b7c4b8f2fb64b7c00338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be593f5ae0ec62d55df4b50a10f2d34c') in 0.008741 seconds
+  Import took 0.010724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/AllLanesDiffuse.png
+  artifactKey: Guid(d8b2a750efbcc7a4090102a95ea3506b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/AllLanesDiffuse.png using Guid(d8b2a750efbcc7a4090102a95ea3506b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1539a27419f891b52f0191b1bbe68ed7') in 0.010310 seconds
+  Import took 0.012002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068745 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/861/AllTrafficMustExitDiffuse.png
+  artifactKey: Guid(081c65992496aac449df604e2ad26d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/861/AllTrafficMustExitDiffuse.png using Guid(081c65992496aac449df604e2ad26d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab74ef9c9a701466daff4c1f6cbb351') in 0.007602 seconds
+  Import took 0.009430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/AR150sDiffuse.png
+  artifactKey: Guid(4dc893e67df22494db1269924944e160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/617/AR150sDiffuse.png using Guid(4dc893e67df22494db1269924944e160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393281113aba9f507bbf329e4958a57e') in 0.008816 seconds
+  Import took 0.010961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055469 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Editor/Library/Thumbs/Arch12m.png
+  artifactKey: Guid(84c505f41fe77db4d861951ca9fdff1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Editor/Library/Thumbs/Arch12m.png using Guid(84c505f41fe77db4d861951ca9fdff1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d018c1f115560947d87a8e86b9127dc') in 0.007577 seconds
+  Import took 0.009430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Editor/Library/Thumbs/Arch24m.png
+  artifactKey: Guid(f563a9be794e77243a61147626829b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Editor/Library/Thumbs/Arch24m.png using Guid(f563a9be794e77243a61147626829b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed748341eaf420896d8d81a5320509eb') in 0.008695 seconds
+  Import took 0.010375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.610719 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Editor/Library/Thumbs/Arch48m.png
+  artifactKey: Guid(839d89ff5e5fa124d98cf488015a465c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Editor/Library/Thumbs/Arch48m.png using Guid(839d89ff5e5fa124d98cf488015a465c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86f836b040559c619a496d303fe3aa43') in 0.007976 seconds
+  Import took 0.010379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/ManualImages/Extra/arch_bridge.PNG
+  artifactKey: Guid(231943f1474e09c4785756aa741eba87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/ManualImages/Extra/arch_bridge.PNG using Guid(231943f1474e09c4785756aa741eba87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9e3dd24c0d1c4153d5977594cbf67ca') in 0.013005 seconds
+  Import took 0.014974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048210 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/Square/Ark8Diffuse.png
+  artifactKey: Guid(8387f565a06efe24c9ae486241e8b666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/Square/Ark8Diffuse.png using Guid(8387f565a06efe24c9ae486241e8b666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe676d1beef40c4e64f34e1ad467534') in 0.007537 seconds
+  Import took 0.009378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/Square/Ark25Diffuse.png
+  artifactKey: Guid(f80c52592210b1a43aedee81760a7799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/FedSigns/Square/Ark25Diffuse.png using Guid(f80c52592210b1a43aedee81760a7799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e2760dbe3ec03ea1edc4983129c414') in 0.010117 seconds
+  Import took 0.011800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 621.378744 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(1049d93a9540af647815372eb699dbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(1049d93a9540af647815372eb699dbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fe3c69738d4c4c8f3c17fd9dddf15bc') in 0.015969 seconds
+  Import took 0.018213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.124093 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e265ea8e62dc448400124f55f7b15c41') in 0.006171 seconds
+  Import took 0.008081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000836 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e265ea8e62dc448400124f55f7b15c41') in 0.003488 seconds
+  Import took 0.005211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.969239 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441b0013c3dd7d921153b1cba06efd55') in 0.005159 seconds
+  Import took 0.007037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2092.559320 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/ManualImages/ArrowRight.png
+  artifactKey: Guid(f7df57ac715114949a04a1adf7e9b3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/ManualImages/ArrowRight.png using Guid(f7df57ac715114949a04a1adf7e9b3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f75d0a247d1248f47f1ca5131825807') in 0.023425 seconds
+  Import took 0.026372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Editor/Library/Thumbs/Atten.png
+  artifactKey: Guid(8146d4d4e0b298647ac731a6fad2c0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Editor/Library/Thumbs/Atten.png using Guid(8146d4d4e0b298647ac731a6fad2c0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b3f5fa7b0c8f07dbb2b59da3ee16524') in 0.013991 seconds
+  Import took 0.015948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/Signs/AttenNormal.png
+  artifactKey: Guid(cf0cda620fe473548968bc4de7c4b8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/Signs/AttenNormal.png using Guid(cf0cda620fe473548968bc4de7c4b8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82be6f7e9fbabf315734a9733824e52c') in 0.040276 seconds
+  Import took 0.042455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Editor/Library/Thumbs/Atten.png
+  artifactKey: Guid(8146d4d4e0b298647ac731a6fad2c0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Editor/Library/Thumbs/Atten.png using Guid(8146d4d4e0b298647ac731a6fad2c0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b3f5fa7b0c8f07dbb2b59da3ee16524') in 0.010006 seconds
+  Import took 0.011926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/Textures/Signs/AttenDiffuse.png
+  artifactKey: Guid(5574493edc7c64c458e550a097c35085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/Textures/Signs/AttenDiffuse.png using Guid(5574493edc7c64c458e550a097c35085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493b55db1c46313f59b94a4cf3b2cd93') in 0.014922 seconds
+  Import took 0.016868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/RoadArchitect/RoadArchitect/ManualImages/ArrowRight.png
+  artifactKey: Guid(f7df57ac715114949a04a1adf7e9b3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoadArchitect/RoadArchitect/ManualImages/ArrowRight.png using Guid(f7df57ac715114949a04a1adf7e9b3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f75d0a247d1248f47f1ca5131825807') in 0.013360 seconds
+  Import took 0.015265 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
